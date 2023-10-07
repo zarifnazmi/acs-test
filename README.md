@@ -18,17 +18,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-![](./public/readme-pics/home.png)
+<img src="./readme-pics/home.png" width="300">
 
 ## Challenge 1
 
-![](./public/readme-pics/challenge1.png)
+<img src="./readme-pics/challenge1.png" width="300">
 
 [http://localhost:3000/challenge1](http://localhost:3000/challenge1) 
 
 ## Challenge 2
 
-![](./public/readme-pics/challenge2_1.png) ![](./public/readme-pics/challenge2_2.png)
+<img src="./readme-pics/challenge2_1.png" width="300"> <img src="./readme-pics/challenge2_2.png" width="300">
 
 [http://localhost:3000/challenge2](http://localhost:3000/challenge2)
 
